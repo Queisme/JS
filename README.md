@@ -1,2 +1,5 @@
 # JS
-javascript-alchemy
+
+javascript-alchemy-workspace
+
+university.alchemy.com
