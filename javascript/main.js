@@ -120,7 +120,7 @@ console.log(findFirstX('XxXxXXXxx'));
 //console.log(findFirstX("XxxxQxxxX")); 
 //console.log(findFirstX("XxxxxxxXq")); 
 */
-
+/*
 function splitAtX(string){
   const xIndex = string.indexOf('x');
   const frontX = string.slice(0, xIndex);
@@ -138,3 +138,4 @@ function splitAtX(string){
 //console.log(splitAtX("before the x is long"));
 //console.log(splitAtX("10xDeveloper"));
 //console.log(splitAtX("before the x is shorter than after"));
+*/
