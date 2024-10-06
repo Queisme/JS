@@ -93,7 +93,13 @@ function fizzBuzz(numbers){
 } 
 console.log(fizzBuzz(numbers));
 */
+const array = [4,6,2,8,1,9,3,7,5,10];
 
+function sortUp(array){
+  array.sort((a, b) => a - b);
+}
+
+console.log(sortUp(array));
 
 
 
